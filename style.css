@@ -35,3 +35,20 @@
     letter-spacing: 1px;
     width: 300px;
 }
+
+
+.rs-img {
+    width: 100px;
+    height: auto;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.summary:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
