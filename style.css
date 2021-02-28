@@ -1,0 +1,37 @@
+.body {
+    margin: 0 auto;
+}
+
+.cv {
+    font-family: 'Big Shoulders Display', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+    font-size: large;
+    width: 300px;
+}
+
+.avatar {
+    width: 200px;
+    height: auto;
+    border-radius: 10%;
+}
+
+.avatar:hover {
+    width: 250px;
+    height: auto;
+}
+
+.info {
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    width: 300px;
+}
